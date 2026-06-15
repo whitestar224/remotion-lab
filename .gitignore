@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+out/
+renders/
+.cache/
+.DS_Store
+Thumbs.db
+*.log
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
